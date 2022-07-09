@@ -1,2 +1,1 @@
-# U.S.S.R
- 
+# U.S.S.R (CCCP) History
