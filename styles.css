@@ -2,10 +2,12 @@
 background-color:red;
 color: yellow;
 font-size: 50px;
-padding-left: 10px;
-padding-right:900px;
+text-align: center;
+padding-left: 490px;
+padding-right:490px;
 font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 border-style: solid;
+
 }
 
 .header{
@@ -62,3 +64,11 @@ padding: 10px;
 background-color: aquamarine;
 }
 
+.secondleft{
+    border-style: solid;
+    padding: 10px;
+    background-color: aquamarine;
+    padding-top: -30px;
+    clear:right;
+    }
+    
