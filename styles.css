@@ -20,64 +20,76 @@ padding:5px;
 margin: 5px;
 }
 
-.content{
-background-color: yellow;
 
 
-
-}
-
-.article{
-
-    background-color: wheat;
-}
-
-p{
-margin:20px;
-float:left;
-font-size: 20px;
-
-}
-.leftside{
+.putin{
+    margin-top: 10px;
+float:right;
 border-style: solid;
-    clear:left;
-    padding: 10px;
-    background-color: aquamarine;
-}
-
-.center{
-border-style: solid;
-padding: 10px;
 background-color: aquamarine;
+width: 100%;
+max-width: 350px;
+margin-right: 16px;
+padding: 5px;
 
-}
-
-.rightside{
-border-style: solid;
-padding: 10px;
-background-color: aquamarine;
-}
-
-.secondright{
-border-style: solid;
-padding: 10px;
-background-color: aquamarine;
-
-
-}
-
-.lowerleft{
+  }
+  .uruguay{
+    margin-top: 10px;
     border-style: solid;
-    padding: 10px;
     background-color: aquamarine;
-   float: right;
-   margin-right:37px;
-   padding-left: 12px;
-   padding-right: 12px;
-    }
+    width: 100%;
+    max-width: 350px;
+    margin-left: 17px;
+    margin-right: 26px;
+    padding: 5px;
     
-.dolls{
+
+  }
+
+  .tank{
+    margin-top: 10px;
+float: left;
     border-style: solid;
-    padding: 10px;
+background-color: aquamarine;
+width: 100%;
+max-width: 350px;
+margin-left: 5px;
+margin-right: 5px;
+padding: 5px;
+  }
+
+  .dolls{
+    margin-top: 15px;
+
+    float:right;
+    border-style: solid;
     background-color: aquamarine;
+    width: 100%;
+    max-width: 350px;
+    padding: 5px; 
+    margin-right: 16px;
+  }
+
+
+  .c{
+    margin-top: 15px;
+    border-style: solid;
+    background-color: aquamarine;
+    width: 100%;
+    max-width: 350px;
+    margin-left: 17px;
+    margin-right: 5px;
+    padding: 5px;
+  }
+.fashion{
+    margin-top: 15px;
+    float: left;
+    border-style: solid;
+background-color: aquamarine;
+width: 100%;
+max-width: 350px;
+margin-left: 5px;
+margin-right: 5px;
+padding: 5px;
+
 }
