@@ -62,13 +62,22 @@ background-color: aquamarine;
 border-style: solid;
 padding: 10px;
 background-color: aquamarine;
+
+
 }
 
-.secondleft{
+.lowerleft{
     border-style: solid;
     padding: 10px;
     background-color: aquamarine;
-    padding-top: -30px;
-    clear:right;
+   float: right;
+   margin-right:37px;
+   padding-left: 12px;
+   padding-right: 12px;
     }
     
+.dolls{
+    border-style: solid;
+    padding: 10px;
+    background-color: aquamarine;
+}
