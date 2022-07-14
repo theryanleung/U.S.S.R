@@ -10,6 +10,7 @@ border-style: solid;
 
 }
 
+
 .header{
 
 border-color:black;
@@ -26,7 +27,7 @@ margin: 5px;
     margin-top: 10px;
 float:right;
 border-style: solid;
-background-color: aquamarine;
+background-color:orange;
 width: 100%;
 max-width: 350px;
 margin-right: 16px;
