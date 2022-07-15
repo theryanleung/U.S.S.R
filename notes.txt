@@ -1,0 +1,28 @@
+</nav>
+<div id="content">
+
+    <div class="article">
+Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ex sint libero possimus! 
+Similique eos facilis laboriosam enim debitis recusandae explicabo?
+
+    </div>
+
+</div>
+
+
+<!-------------------------buttons------------------------------------->
+<hr />  
+<h1>
+    <p id="fool">do you like the U.S.S.R?:</p>
+    <button type="button"
+    onclick='document.getElementById("fool").innerHTML = "do you like the U.S.S.R?: yes yes yes, I love the U.S.S.R"'>
+    Click me if yes</button>
+    <button type="button"
+    onclick='document.getElementById("fool").innerHTML = "do you like the U.S.S.R?: please let me restart it, it was so good"'>
+    Click me if no</button></h1>
+
+<p><a href="file:///C:/Users/thery/Documents/GitHub/U.S.S.R/shrek.html">famous russian leader</a></p>
+
+
+<hr />
+<div class="news"> <a href="file:///C:/Users/thery/Documents/GitHub/U.S.S.R/news.html">news</a></div>
