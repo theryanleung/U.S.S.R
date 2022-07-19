@@ -109,6 +109,17 @@ margin: 15px;
 font-size: 30px;
 
 }
+.history{
+    margin-top: 15px;
+
+    float:right;
+    border-style: solid;
+    background-color: aquamarine;
+    width: 100%;
+    max-width: 350px;
+    padding: 5px; 
+    margin-right: 16px;
+}
 
 .newst{
 
