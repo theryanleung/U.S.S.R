@@ -10,8 +10,25 @@
 <body>
     <table>
         <tr>
-            <td><div class="s">Soviet union</div>
-             
+            <td><div class="s"><div class="s2">Soviet union</div>
+                <br />
+                    <script>
+                         var today = new Date();
+        var hourNow = today.getHours();
+        var greeting;
+        if (hourNow > 11){
+            greeting ='Good evening from moscow';
+        }else if (hourNow > 5){
+            greeting = 'good afternoon from moscow';
+        }else if (hourNow > 18){
+            greeting = 'good morning from moscow';
+        }else {
+            greeting = 'Welcome'
+        }
+        document.write(greeting);
+                    </script>
+                </td>
+            
     </tr>
 
 
@@ -19,6 +36,7 @@
  
     <nav>
 </table>
+</div>
    <!-------------------top bar with links ----------------->
 
    
@@ -37,7 +55,7 @@
         <tr><b>
             <td><div class="putin"><a href="leaders.html">Famouse leaders of the past and present<br /><br /><br /><br /></a><img src="img/putin.img" width="350px" height="250px" alt="putin" title="putin"></div></td>
             <td><div class="uruguay"><a href="uruguay.html">the U.S.S.R's opinions on the geopolitical statis of uruguay </a><br /><br /><br /><img src="img/uruguay.img" width="350px" height="250px"></div></td>
-            <td><div class="tank"><a href="news.html">russian engineers have beeon working on futuristic tanks that could change warfare</a> <br /><br /><br /><img src="img/img.tank.jpg" width="350px" height="250px"></div></td>
+            <td><div class="tank"><a href="news.html">russian engineers have been working on futuristic tanks that could change warfare</a> <br /><br /><br /><img src="img/img.tank.jpg" width="350px" height="250px"></div></td>
         </tr>
         <tr>
             <td><div class="dolls"><a href="dolls.html">Soviet inspectors are baffled as Russian doll coalition is found to be Facist and not Communist enough</a><br /><br /><br /><img src="img/dolls.img" width="350px" height="250px"></div></td>

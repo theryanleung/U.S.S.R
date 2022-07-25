@@ -2,7 +2,7 @@
 background-color:red;
 border-width: 100%;
 color: yellow;
-font-size: 50px;
+font-size: 20px;
 text-align: center;
 padding-left: 490px;
 padding-right:490px;
@@ -10,7 +10,9 @@ font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 border-style: solid;
 
 }
-
+.s2{
+  font-size: 50px;
+}
 
 .header{
 
@@ -161,15 +163,26 @@ background-color: lightblue;
 
 }
 
+.dollsbody{
+  background-color: lightyellow;
+}
 .dollstitle{
 text-align: center;
 width: 100%;
 font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 font-size: 20px;
+background-color: tan;
+border-style: solid;
+border-color: black;
+margin: 50px;
+padding: 20px;
 }
 .dollsimage{
-align-items: center;
-align-self: center;
+margin-left: 150px;
+}
+
+.dollsegg{
+  margin-left: 350px;
 }
 
 .button {
