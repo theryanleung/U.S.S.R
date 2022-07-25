@@ -97,6 +97,17 @@ padding: 5px;
 
 }
 
+.extremeironing{
+  margin-top: 15px;
+  border-style: solid;
+  background-color: aquamarine;
+  width: 100%;
+  max-width: 350px;
+  margin-left: 17px;
+  margin-right: 5px;
+  padding: 5px;
+}
+
 .newsheader{
 
 
@@ -173,7 +184,7 @@ align-self: center;
   margin: 4px 2px;
   cursor: pointer;
 }
-
+/* shopping */
 .shopheader{
 color: white;
 
@@ -196,3 +207,15 @@ color: white;
 .shopyellow{
   color:yellow;
 }
+
+
+.tanki{
+color: yellow;
+margin-left: 20px;
+}
+
+.tankititle{
+  color: yellow;
+  margin-left: 20px;
+}
+
