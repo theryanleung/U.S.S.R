@@ -20,6 +20,7 @@ color: aqua;
 background-color: rgb(28, 179, 96);
 padding:5px;
 margin: 5px;
+border-width: 100%;
 }
 
 
@@ -149,3 +150,49 @@ background-color: lightblue;
 
 }
 
+.dollstitle{
+text-align: center;
+width: 100%;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-size: 20px;
+}
+.dollsimage{
+align-items: center;
+align-self: center;
+}
+
+.button {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.shopheader{
+color: white;
+
+  background-color: rgb(14, 21, 23)
+}
+
+.shopbar{
+  font-size: 30px;
+  color: white;
+}
+.shopcolor{
+  color: white;
+}
+.shoptitle{
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color:yellow;
+  background-color: red;
+}
+
+.shopyellow{
+  color:yellow;
+}
