@@ -1,7 +1,9 @@
-.s{
+.indexheader{
 background-color:red;
 border-width: 100%;
-color: yellow;
+color:yellow;
+border-style: solid;
+
 font-size: 20px;
 text-align: center;
 padding-left: 490px;
@@ -10,9 +12,22 @@ font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 border-style: solid;
 
 }
-.s2{
+.indexheadersovietunion{
   font-size: 50px;
+  color: yellow;
 }
+
+.indexdisclaimer{
+  min-width: 300px;
+  color: black;
+}
+
+.indextime{
+  color: yellow;
+}
+
+
+
 
 .header{
 
@@ -50,7 +65,18 @@ padding: 5px;
     
 
   }
-
+.uruguayheader{
+  color: black;
+  background-color: white;
+  border-style: ridge;
+  border-width: 10px;
+  border-color: blueviolet;
+  text-align: center;
+  font-family:'Times New Roman', Times, serif;
+}
+.uruguayimg{
+margin: 10px;
+}
   .tank{
     margin-top: 10px;
 float: left;
@@ -63,6 +89,15 @@ margin-right: 5px;
 padding: 5px;
   }
 
+  .uruguaytext{
+    max-width: 400px;
+    font-size: 25px;
+
+  }
+
+  .test1{
+    float: right;
+  }
   .dolls{
     margin-top: 15px;
 
