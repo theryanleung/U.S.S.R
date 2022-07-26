@@ -110,8 +110,12 @@ padding: 5px;
   padding: 5px;
 }
 
-.newsheader{
+.news{
+  background-color: black;
+}
 
+.newsheader{
+f
 
 
 border-style: solid;
@@ -138,13 +142,21 @@ font-size: 30px;
 
 .newst{
 
-font-size: 35px;
+
 font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-
-
+color: rgb(20, 196, 67);
+margin-right: 50px;
 
 }
 
+.newsimg{
+margin-top: 30px;
+border-style: groove;
+border-color: gold;
+border-width: 20px;
+margin-right: 20px;
+float: right;
+}
 .u{
 
 
