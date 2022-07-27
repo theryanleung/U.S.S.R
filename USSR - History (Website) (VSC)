@@ -1,30 +1,44 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="styles.css" type="text/css">
     <title>USSR</title>
 </head>
+
 <body>
-    <h1><a href="index.html">The History of USSR</a></h1>
-    <ol>
-        <li><a href="1.html">The Russian Revolution</a></li>
-        <li><a href="2.html">The Russian Civil War</a></li>
-        <li><a href="3.html">The Declaration of the Creation of the USSR</a></li>
-        <li><a href="4.html">The NEP</a></li>
-        <li><a href="5.html">The Great Purge</a></li>
-        <li><a href="6.html">The World War II</a></li>
-        <li><a href="7.html">The Cold War</a></li>
-        <li><a href="8.html">The De-Stalinization</a></li>
-        <li><a href="9.html">The Détente</a></li>
-        <li><a href="10.html">The Stagnation Era</a></li>
-        <li><a href="11.html">The Soviet-Afganistan War</a></li>
-        <li><a href="12.html">The Glasnost-Perestroika</a></li>
-        <li><a href="13.html">The Dissolution of the USSR</a></li>
-    </ol>
-    <h2>Soviet Union (USSR), 1922-1991</h2>
-    [The First ever communist contry made, which was located in eurasisa having Moscow as the capitol]
-    <img src="https://en.wikipedia.org/wiki/File:Flag_of_the_Soviet_Union.svg" width="2560" height="1280">
+    
+    <div class="nav">
+        <div class="nav-item"><li><a href="USSR - History (Website) (VSC)">USSR (History)</a></li></div>
+        <div class="nav-items">
+            <div class="nav-item"><li><a href="1.html">The Russian Revolution</a></li></div>
+            <div class="nav-item"><li><a href="2.html">The Russian Civil War</a></li></div>
+            <div class="nav-item"><li><a href="3.html">The Declaration of the Creation of the USSR</a></li></div>
+            <div class="nav-item"><li><a href="4.html">The NEP</a></li></div>
+            <div class="nav-item"><li><a href="5.html">The Great Purge</a></li></div>
+            <div class="nav-item"><li><a href="6.html">The World War II</a></li></div>
+            <div class="nav-item"><li><a href="7.html">The Cold War</a></li></div>
+            <div class="nav-item"><li><a href="8.html">The De-Stalinization</a></li></div>
+            <div class="nav-item"><li><a href="9.html">The Détente</a></li></div>
+            <div class="nav-item"><li><a href="10.html">The Stagnation Era</a></li></div>
+            <div class="nav-item"><li><a href="11.html">The Soviet-Afganistan War</a></li></div>
+            <div class="nav-item"><li><a href="12.html">The Glasnost-Perestroika</a></li></div>
+            <div class="nav-item"><li><a href="13.html">The Dissolution of the USSR</a></li></div>
+        </div>
+    </div>
+    
+    <div class="main">
+        <div class="title">
+            USSR
+        </div>
+        <div class="subtitle">
+            [The First ever communist contry made, which was located in eurasisa having Moscow as the capitol]
+        </div>
+    </div>
+    
+    <script scr="script.js"></script>
 </body>
+<img src="img/img.flag.png" width="1200" height="900">
 </html>
