@@ -75,7 +75,11 @@ padding: 5px;
   font-family:'Times New Roman', Times, serif;
 }
 .uruguayimg{
-margin: 10px;
+margin-left: 10px;
+}
+
+.urubody{
+  background-color: lightblue;
 }
   .tank{
     margin-top: 10px;
@@ -90,9 +94,29 @@ padding: 5px;
   }
 
   .uruguaytext{
-    max-width: 400px;
-    font-size: 25px;
+   
+    min-width: 400px;
+    font-size: 28px;
+margin-right: 25px;
+margin-left: 10px;
+border-style: solid;
+border-color: blue;
+background-color: yellow;
+padding: 10px;
+  }
 
+  .uruguaymainnews{
+    min-width: 900px;
+    background-color: yellow;
+    margin-left: 15px;
+    margin-right:15px;
+    border-color:blue;
+    border-style: ridge;
+    border-width: 5px;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  .EUbanner{
+    margin-right: 10px;
   }
 
   .test1{
