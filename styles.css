@@ -355,3 +355,29 @@ margin-left: 20px;
   margin-left: 20px;
 }
 
+
+
+
+
+
+/* hulu with chuthulhu */
+
+.huluheader{
+  font-size: 50px;
+  font-family: 'Times New Roman', Times, serif;
+  border-style: groove;
+  border-color:chartreuse;
+  background-color: red;
+  color:chartreuse;
+  text-align: center;
+}
+.hulutitle{
+  font-size: 50px;
+  max-width: 700;
+text-align: center;
+margin-left: 250px;
+}
+
+.hulubody{
+  
+}
