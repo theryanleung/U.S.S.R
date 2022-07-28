@@ -168,6 +168,15 @@ margin-right: 5px;
 padding: 5px;
   }
 
+.newspoliticaltext{
+  text-align: center;
+  background-color:peachpuff ;
+  border-style: solid;
+  border-color: black;
+  padding: 10px;
+}
+
+
   
   .test1{
     float: right;
