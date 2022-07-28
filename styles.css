@@ -376,8 +376,20 @@ margin-left: 20px;
   max-width: 700;
 text-align: center;
 margin-left: 250px;
+margin-bottom: 100px;
 }
 
 .hulubody{
   
+}
+
+.huluprosandcons{
+font-size: 35px;
+margin-top: 15px;
+margin-bottom: 15px;
+text-align: center;
+}
+
+.huluimg{
+margin-left: 375px;
 }
