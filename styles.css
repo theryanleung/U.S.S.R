@@ -393,3 +393,33 @@ text-align: center;
 .huluimg{
 margin-left: 375px;
 }
+
+.hulutext{
+  text-align: center;
+}
+
+
+
+/*extreme ironing */
+
+.extremeironingtitle{
+  border-style: groove;
+  border-color: blue;
+  border-width: 5px;
+  text-align: center;
+  font-size: 30px;
+  margin-top: 10px;
+  padding-top: 10px;
+  margin-bottom:15px;
+  padding-bottom: 10px;
+  background-color: lavender;
+}
+
+.ironingwinner{
+font-size: 20px;
+color:lightblue;
+}
+
+.winnerdetails{
+font-size:10px;
+}
